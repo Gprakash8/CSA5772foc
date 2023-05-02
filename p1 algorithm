@@ -1,0 +1,5 @@
+Start by setting a variable 'n' to the desired length of the series.
+Initialize a variable 'i' to 1, which will serve as the starting point of the series.
+Create a loop that will run 'n' times, printing out the value of i on each iteration.
+Inside the loop, increment i by '1' at the end of each iteration.
+Once the loop has finished running 'n' times, the series from 1 to n should be complete.
